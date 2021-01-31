@@ -1,4 +1,9 @@
 public class Hello {
-    //mac users and windows users are happy
-    //everybdoy are happy.
+    public static void main(String[] args) {
+        //mac users and windows users are happy
+        //everybdoy are happy.
+        System.out.print("Everybody are fine");
+    }
+
+
 }
