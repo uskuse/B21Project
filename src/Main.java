@@ -7,5 +7,6 @@ public class Main {
         //eu4 is dedicated
         // but must study more
         // no worries they are already studying well
+        //but time is going fast
     }
 }
