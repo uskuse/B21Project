@@ -5,5 +5,10 @@ public class Main {
         System.out.println("Git helps always");
         //eu4 is excited
         //eu4 is dedicated
+        // but must study more
+        // no worries they are already studying well
+        //but time is going fast
+        //need to study
+        // where r u
     }
 }
